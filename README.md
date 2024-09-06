@@ -1,2 +1,2 @@
-# linux_new
+# bash_scripting
 A well-structured repository for organizing and managing Linux-related files and resources.
